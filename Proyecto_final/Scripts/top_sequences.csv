@@ -1,0 +1,11 @@
+"Protein_with_more_similarity","Score","P_identity"
+"BAC0002|abeS|tr|Q2FD83|Q2FD83_ACIBA QacEdelta1 SMR family efflux pump OS=Acinetobacter baumannii GN=qacEdelta1 PE=3 SV=1",469.100311279297,100
+"BAC0324|qacF|sp|Q9X2N9|QACF_ENTAE Quaternary ammonium compound-resistance protein QacF OS=Enterobacter aerogenes GN=qacF PE=3 SV=1",51.6952934265137,66.6666666666667
+"BAC0150|emrE/mvrC|sp|P23895|EMRE_ECOLI Multidrug transporter EmrE OS=Escherichia coli (strain K12) GN=emrE PE=1 SV=1",50.1415748596191,84.2105263157895
+"BAC0322|qacE|sp|P0AGC9|QACE_ECOLX Quaternary ammonium compound-resistance protein QacE OS=Escherichia coli GN=qacE PE=3 SV=1",48.2574653625488,65
+"BAC0323|qacEdelta1|tr|Q7BQY4|Q7BQY4_PSEAI Disinfectant resistance protein OS=Pseudomonas aeruginosa GN=qacEdelta1 PE=3 SV=1",48.2574653625488,65
+"BAC0377|ssmE|tr|A7VN75|A7VN75_SERMA Multidrug efflux pump SsmE OS=Serratia marcescens GN=ssmE PE=3 SV=1",32.9268951416016,80
+"BAC0139|ebrA|sp|P0CW81|EBRA_BACAT Multidrug resistance protein EbrA OS=Bacillus atrophaeus GN=ebrA PE=1 SV=1",28.1903076171875,88.8888888888889
+"BAC0189|hmrM|sp|P45272|HMRM_HAEIN Multidrug resistance protein HmrM OS=Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) GN=hmrM PE=3 SV=1",23.8866348266602,87.5
+"BAC0327|qacJ|tr|Q84EL2|Q84EL2_STAAU QacJ protein OS=Staphylococcus aureus GN=qacJ PE=3 SV=1",23.8866348266602,87.5
+"BAC0329|qacZ|tr|Q82YU7|Q82YU7_ENTFA Multidrug resistance protein OS=Enterococcus faecalis (strain ATCC 700802 / V583) GN=EF_A0010 PE=3 SV=1",23.8866348266602,87.5
